@@ -1,0 +1,29 @@
+C:\Users\user\Desktop\CC103 Project\POS(FinalProject)\POS(FinalProject)\bin\Debug\POS(FinalProject).exe.config
+C:\Users\user\Desktop\CC103 Project\POS(FinalProject)\POS(FinalProject)\bin\Debug\POS(FinalProject).exe
+C:\Users\user\Desktop\CC103 Project\POS(FinalProject)\POS(FinalProject)\bin\Debug\POS(FinalProject).pdb
+C:\Users\user\Desktop\CC103 Project\POS(FinalProject)\POS(FinalProject)\bin\Debug\POS(FinalProject).xml
+C:\Users\user\Desktop\CC103 Project\POS(FinalProject)\POS(FinalProject)\obj\Debug\POS(FinalProject).vbproj.AssemblyReference.cache
+C:\Users\user\Desktop\CC103 Project\POS(FinalProject)\POS(FinalProject)\obj\Debug\POS_FinalProject_.Resources.resources
+C:\Users\user\Desktop\CC103 Project\POS(FinalProject)\POS(FinalProject)\obj\Debug\POS(FinalProject).vbproj.GenerateResource.cache
+C:\Users\user\Desktop\CC103 Project\POS(FinalProject)\POS(FinalProject)\obj\Debug\POS(FinalProject).vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CC103 Project\POS(FinalProject)\POS(FinalProject)\obj\Debug\POS(FinalProject).exe
+C:\Users\user\Desktop\CC103 Project\POS(FinalProject)\POS(FinalProject)\obj\Debug\POS(FinalProject).xml
+C:\Users\user\Desktop\CC103 Project\POS(FinalProject)\POS(FinalProject)\obj\Debug\POS(FinalProject).pdb
+C:\Users\user\Desktop\CC103 Project\POS(FinalProject)\POS(FinalProject)\obj\Debug\POS_FinalProject_.frmInventory.resources
+C:\Users\user\Desktop\CC103 Project\POS(FinalProject)\POS(FinalProject)\obj\Debug\POS_FinalProject_.frmLogIn.resources
+C:\Users\user\Desktop\POS(FinalProject)\POS(FinalProject)\bin\Debug\POS(FinalProject).exe.config
+C:\Users\user\Desktop\POS(FinalProject)\POS(FinalProject)\bin\Debug\POS(FinalProject).exe
+C:\Users\user\Desktop\POS(FinalProject)\POS(FinalProject)\bin\Debug\POS(FinalProject).pdb
+C:\Users\user\Desktop\POS(FinalProject)\POS(FinalProject)\bin\Debug\POS(FinalProject).xml
+C:\Users\user\Desktop\POS(FinalProject)\POS(FinalProject)\obj\Debug\POS(FinalProject).vbproj.AssemblyReference.cache
+C:\Users\user\Desktop\POS(FinalProject)\POS(FinalProject)\obj\Debug\POS_FinalProject_.frmInventory.resources
+C:\Users\user\Desktop\POS(FinalProject)\POS(FinalProject)\obj\Debug\POS_FinalProject_.frmLogIn.resources
+C:\Users\user\Desktop\POS(FinalProject)\POS(FinalProject)\obj\Debug\POS_FinalProject_.Resources.resources
+C:\Users\user\Desktop\POS(FinalProject)\POS(FinalProject)\obj\Debug\POS(FinalProject).vbproj.GenerateResource.cache
+C:\Users\user\Desktop\POS(FinalProject)\POS(FinalProject)\obj\Debug\POS(FinalProject).vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\POS(FinalProject)\POS(FinalProject)\obj\Debug\POS(FinalProject).exe
+C:\Users\user\Desktop\POS(FinalProject)\POS(FinalProject)\obj\Debug\POS(FinalProject).xml
+C:\Users\user\Desktop\POS(FinalProject)\POS(FinalProject)\obj\Debug\POS(FinalProject).pdb
+C:\Users\user\Desktop\POS(FinalProject)\POS(FinalProject)\obj\Debug\POS_FinalProject_.frmCashier.resources
+C:\Users\user\Desktop\POS(FinalProject)\POS(FinalProject)\obj\Debug\POS_FinalProject_.frmUser.resources
+C:\Users\user\Desktop\POS(FinalProject)\POS(FinalProject)\obj\Debug\POS_FinalProject_.frmAdminUser.resources
